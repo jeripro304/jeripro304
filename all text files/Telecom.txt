@@ -1,0 +1,59 @@
+'ytDAY 1
+
+signal noise ratio
+bit error rate
+PSTN - Public Switch Telephone Network
+NFV - Network Function Virtualization
+MMS - MultiMedia service
+SDN - Software defined Networks
+CDN - Content Delivery Network
+DCN - Data Network
+
+
+Access Network - Mobile to nearby Tower
+
+
+Fixed Networks - PSTN, ISDN, DSL
+
+Mobile Networks - Analog, GSM, SMS, GPRS
+
+Internet Networks - FTP, email, WWW, Potals, P2P Im
+
+Cable Networks - Broadcast, VoD, iTV, FTTX
+
+
+ITU - Makes standards for telecommunication
+
+3GPP 3Gpp2 IEEE
+
+Speech Bandwidth : 300 Hz to 3400 Hz
+
+
+No semiconductor to work above 40Ghz (Thats why it took time to rise from 2G to 5G)
+
+
+-------------------------------------------------------------------
+towers will be off in hexogonal shape
+whereas the the torwer of 906 mhz should coiincide the nearby tower of  another .
+
+
+typical technical challeges
+
+multipath propagation
+raleigh fading
+inter symbol interference
+handover
+Near end far end (power control) (evert 1.25 msec)
+
+
+
+Day 2
+
+
+
+signal is less while in lift or inside in a room because the electromagnetic waves will be grounded bacouse of those metals such that the signal to the phne 
+in the outside the signal is of 1 watt whereas the signal inside the area will be of  less of 0.1 db
+
+
+
+
